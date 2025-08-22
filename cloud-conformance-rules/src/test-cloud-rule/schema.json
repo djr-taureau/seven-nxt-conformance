@@ -1,0 +1,8 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "$id": "test-cloud-rule",
+  "title": "test-cloud-rule rule configuration",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}
